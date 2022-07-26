@@ -105,11 +105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Collected\\Work\\VIR Core\\Repository\\WebApplication\\WebApplication.csproj",
+      "projectUniqueName": "C:\\Collected\\Work\\VIR Core\\GitHub\\WebApplication\\WebApplication.csproj",
       "projectName": "WebApplication",
-      "projectPath": "C:\\Collected\\Work\\VIR Core\\Repository\\WebApplication\\WebApplication.csproj",
+      "projectPath": "C:\\Collected\\Work\\VIR Core\\GitHub\\WebApplication\\WebApplication.csproj",
       "packagesPath": "C:\\Users\\attil\\.nuget\\packages\\",
-      "outputPath": "C:\\Collected\\Work\\VIR Core\\Repository\\WebApplication\\obj\\",
+      "outputPath": "C:\\Collected\\Work\\VIR Core\\GitHub\\WebApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
